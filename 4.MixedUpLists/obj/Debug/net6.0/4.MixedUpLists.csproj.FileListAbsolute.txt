@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\bin\Debug\net6.0\4.MixedUpLists.exe
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\bin\Debug\net6.0\4.MixedUpLists.deps.json
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\bin\Debug\net6.0\4.MixedUpLists.runtimeconfig.json
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\bin\Debug\net6.0\4.MixedUpLists.dll
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\bin\Debug\net6.0\4.MixedUpLists.pdb
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.AssemblyInfo.cs
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.dll
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\refint\4.MixedUpLists.dll
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.pdb
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\4.MixedUpLists.genruntimeconfig.cache
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\4.MixedUpLists\obj\Debug\net6.0\ref\4.MixedUpLists.dll
