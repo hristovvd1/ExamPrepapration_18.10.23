@@ -12,3 +12,4 @@ C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\MemoryGame\obj\Debug\net6.
 C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\MemoryGame\obj\Debug\net6.0\MemoryGame.pdb
 C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\MemoryGame\obj\Debug\net6.0\MemoryGame.genruntimeconfig.cache
 C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\MemoryGame\obj\Debug\net6.0\ref\MemoryGame.dll
+C:\Users\hrist\source\repos\ExamPrepapration_18.10.23\MemoryGame\obj\Debug\net6.0\MemoryGame.sourcelink.json
